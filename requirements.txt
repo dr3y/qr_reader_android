@@ -1,0 +1,40 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: win-64
+ca-certificates=2021.10.26=haa95532_4
+certifi=2021.10.8=py37haa95532_2
+cffi=1.15.0=pypi_0
+charset-normalizer=2.0.11=pypi_0
+cryptography=36.0.1=pypi_0
+docutils=0.18.1=pypi_0
+idna=3.3=pypi_0
+kivy=2.0.0=pypi_0
+kivy-deps-angle=0.3.1=pypi_0
+kivy-deps-glew=0.3.0=pypi_0
+kivy-deps-gstreamer=0.3.3=pypi_0
+kivy-deps-sdl2=0.3.1=pypi_0
+kivy-garden=0.1.4=pypi_0
+kivy-garden-xcamera=2020.613=pypi_0
+kivy-garden-zbarcam=2020.524=pypi_0
+kivymd=0.104.2=pypi_0
+numpy=1.21.5=pypi_0
+opencv-python=4.5.5.62=pypi_0
+openssl=1.1.1m=h2bbff1b_0
+pillow=9.0.0=pypi_0
+pip=21.2.4=py37haa95532_0
+pycparser=2.21=pypi_0
+pygments=2.11.2=pypi_0
+pypiwin32=223=pypi_0
+python=3.7.11=h6244533_0
+pywin32=303=pypi_0
+pyzbar=0.1.8=pypi_0
+requests=2.27.1=pypi_0
+setuptools=58.0.4=py37haa95532_0
+sqlite=3.37.0=h2bbff1b_0
+urllib3=1.26.8=pypi_0
+vc=14.2=h21ff451_1
+vs2015_runtime=14.27.29016=h5e58377_2
+wheel=0.37.1=pyhd3eb1b0_0
+wincertstore=0.2=py37haa95532_2
+xcamera=2020.613=pypi_0
+zbarcam=2020.524=pypi_0
